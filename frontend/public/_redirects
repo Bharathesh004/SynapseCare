@@ -1,0 +1,5 @@
+# Netlify _redirects file for SynapseCare React Router
+# This ensures all routes work properly with client-side routing
+
+# Redirect all routes to index.html for React Router to handle
+/*    /index.html   200
